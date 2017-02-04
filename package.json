@@ -1,0 +1,29 @@
+{
+  "name": "kodilla-grunt-example",
+  "version": "1.0.0",
+  "description": "grunt example",
+  "main": "index.js",
+  "scripts": {
+    "test": "kodilla-test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aderjan/adrian-tomaszkiewicz.git"
+  },
+  "keywords": [
+    "grunt"
+  ],
+  "author": "Adrian Tomaszkiewicz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aderjan/adrian-tomaszkiewicz/issues"
+  },
+  "homepage": "https://github.com/aderjan/adrian-tomaszkiewicz#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-browser-sync": "^2.2.0",
+    "grunt-contrib-imagemin": "^1.0.1",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-sass": "^2.0.0"
+  }
+}
